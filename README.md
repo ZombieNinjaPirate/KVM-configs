@@ -23,6 +23,8 @@ Shows how a template can be created.
 
 - vmbuilder.partitions
 
+Contains the partition size and layout of the guest.
+
 - kvm-template.example/vmcopy.cfg
 
 Contains a list of file that will be copied from the KVM host machine to the KVM
